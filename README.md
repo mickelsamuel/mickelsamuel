@@ -67,15 +67,15 @@
 
 1. **[GymTrackPro](https://github.com/mickelsamuel/gym)** 
    - Cross-platform workout application built with React Native/Expo for progressive overload tracking, offline storage, and data visualization.
+     
+2. **[AgendaMate iOS App](https://github.com/mickelsamuel/AgendaMate)** 
+   - SwiftUI-based personal organizer with journaling, notifications, and weather integration.
   
-2. **[Elderly-Health-Monitor-App](https://github.com/mickelsamuel/Elderly-Health-Monitor-App)**
+3. **[Elderly-Health-Monitor-App](https://github.com/mickelsamuel/Elderly-Health-Monitor-App)**
    - A real-time patient monitoring system for elderly users (heart rate, temperature, SpO2), featuring sensor integration and alert notifications.
 
-3. **[Real Estate Website](https://github.com/CodyStride/Cody_Stride-soen341projectF2023)**
+4. **[Real Estate Website](https://github.com/CodyStride/Cody_Stride-soen341projectF2023)**
    - Full-stack platform with Next.js + PocketBase for dynamic property listings, geolocation-based search, and live broker–client chat.
-
-4. **[AgendaMate iOS App](https://github.com/mickelsamuel/AgendaMate)** 
-   - SwiftUI-based personal organizer with journaling, notifications, and weather integration.  
 
 5. **[Othello-Board-Game](https://github.com/mickelsamuel/Othello-Board-Game)**
    - A classic Othello board game playable by two players (C++).
