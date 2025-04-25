@@ -6,7 +6,7 @@
   <a href="mailto:mickelsamuel.b@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mickelsamuel/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin&colorB=0077B5"/></a>
   <a href="https://github.com/mickelsamuel"><img src="https://img.shields.io/github/followers/mickelsamuel?label=Follow&style=social"/></a>
-  <a href="https://mickelsamuel.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.mickelsamuel.com/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
